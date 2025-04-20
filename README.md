@@ -461,7 +461,7 @@ Group by Id
 ```
 Result:
 
-![time spent in a day](https://github.com/MrMo-99/FitBit-Case-Study-Analysis/blob/main/Tableau%20Visualizations/Time%20spent%20in%20a%20day.PNG)
+![time spent in a day]()
 
 ___
 
