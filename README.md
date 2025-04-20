@@ -545,7 +545,7 @@ From the graph above, we can infer that the most popular time people are active 
 
 Visualizations built in a dashboard. 
 
-![dashboard]()
+![dashboard](https://github.com/sahil110802/Fitness-Tracker-Analysis/blob/main/Tableau%20Visualizations/FitBit%20Case%20Study%20Visualized.png)
 
 ___
 
