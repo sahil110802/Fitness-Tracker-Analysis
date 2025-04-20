@@ -461,7 +461,7 @@ Group by Id
 ```
 Result:
 
-![time spent in a day]()
+![time spent in a day](https://github.com/sahil110802/Fitness-Tracker-Analysis/blob/main/Tableau%20Visualizations/Time%20spent%20in%20a%20day.PNG)
 
 ___
 
@@ -470,11 +470,9 @@ ___
 
 In this phase, we will be visualizing the data analyzed and tables created using Tableau Public.
 
-For the interactive version, [Click here](https://public.tableau.com/app/profile/mohammed.amja5151/viz/FitBitCaseStudyVisualized/FitBitCaseStudyVisualized)
-
 ### Activity Durations and Calories Relationship:
 
-![Activitydurationcalories]()
+![Activitydurationcalories](https://github.com/sahil110802/Fitness-Tracker-Analysis/blob/main/Tableau%20Visualizations/Activity%20Duration%20and%20Calories%20Burned.PNG)
 
 Key Findings:
 * The R-Squared value for Low Active graph is 0.0118
@@ -514,7 +512,7 @@ To better understand METs more, the approximate METs values while performing cer
 
 
 
-![METs vs Average Calories]()
+![METs vs Average Calories](https://github.com/sahil110802/Fitness-Tracker-Analysis/blob/main/Tableau%20Visualizations/METs%20vs%20Avg.Calories%20Burned.png)
 
 Key Findings:
 * The R-Squared value is 0.5504
@@ -526,7 +524,7 @@ The amount of calories burned for every user is highly dependent on their MET va
 **Sleep and Calories Comparison **
 
 
-![sleep and calories]()
+![sleep and calories](https://github.com/sahil110802/Fitness-Tracker-Analysis/blob/main/Tableau%20Visualizations/Sleep%20and%20Calories%20Burned%20Comparison.png)
 
 Key Findings:
 * The R-Squared value is 0.8727
@@ -539,7 +537,7 @@ However sleeping more than the required range doesn't seem to burn more calories
 
 **Popular Time for Activities**
 
-![popular time for workouts]()
+![popular time for workouts](https://github.com/sahil110802/Fitness-Tracker-Analysis/blob/main/Tableau%20Visualizations/Popular%20Time%20for%20Workout.png)
 
 From the graph above, we can infer that the most popular time people are active throughout the day is between **5:00 AM - 9:00PM**
 
